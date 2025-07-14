@@ -1,6 +1,6 @@
 #!/bin./bash
 
-PROGRAM="mono./bin/cRho.exe"
+PROGRAM="mono ./bin/cRho.exe"
 DIR1="./JSON"
 DIR2="./local"
 
